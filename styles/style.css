@@ -291,7 +291,7 @@ Animation
   box-shadow: 2px 0 2px rgba(0, 0, 0, 0.2);
 
   /* hide navbar */
-  /* transform: translate(-100%); */
+  transform: translate(-100%);
   transition: var(--transition);
 }
 
