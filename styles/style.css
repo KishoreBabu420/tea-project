@@ -94,7 +94,6 @@ p {
   }
 }
 /* more global css */
-
 .btn {
   text-transform: uppercase;
   background: var(--clr-primary);
@@ -112,6 +111,10 @@ p {
 .btn:hover {
   color: var(--clr-primary);
   background: var(--clr-primary-light);
+}
+
+textarea {
+  resize: none;
 }
 .clearfix::after,
 .clearfix::before {
